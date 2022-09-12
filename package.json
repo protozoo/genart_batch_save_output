@@ -1,0 +1,23 @@
+{
+  "name": "genart_batch_save_output",
+  "version": "1.0.0",
+  "description": "Basic web service to automate saving of generative-art outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generative",
+    "save",
+    "upload",
+    "image",
+    "art",
+    "fxhash"
+  ],
+  "author": "Daniel Aguilar (Protozoo)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
